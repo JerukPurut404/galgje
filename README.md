@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|N|A|g|E|L|
+|N|A|G|E|L|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
