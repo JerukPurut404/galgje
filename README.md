@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|N|A|.|E|L|
+|N|A|g|E|L|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -19,3 +19,4 @@
 7.I is helaas niet goed
 8.U is helaas niet goed
 9. NAG E L
+GOED GEDAAN 
