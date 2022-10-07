@@ -11,4 +11,4 @@
 
 ## Beurten
 1.E is helaas niet goed 
-2. 
+2.A
