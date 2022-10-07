@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|.|.|
+|.|A|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -11,4 +11,4 @@
 
 ## Beurten
 1.E is helaas niet goed 
-2.A
+2.A is goed
