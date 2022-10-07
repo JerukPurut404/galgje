@@ -18,3 +18,4 @@
 6.O is helaas niet goed
 7.I is helaas niet goed
 8.U is helaas niet goed
+9. NAG E L
