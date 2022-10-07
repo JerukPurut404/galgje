@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/4.png)
+![gallow](./images/5.png)
 
 ## Beurten
 1.E is helaas niet goed 
@@ -16,4 +16,4 @@
 4.F is helaas niet goed
 5.N is goed
 6.O is helaas niet goed
-7.I
+7.I is helaas niet goed
