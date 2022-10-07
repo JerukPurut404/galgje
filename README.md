@@ -16,3 +16,4 @@
 4.F is helaas niet goed
 5.N is goed
 6.O is helaas niet goed
+7.I
