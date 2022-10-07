@@ -15,3 +15,4 @@
 3.L is goed
 4.F is helaas niet goed
 5.N is goed
+6.O
