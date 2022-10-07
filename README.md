@@ -2,13 +2,13 @@
 
 ## Te raden woord
 
-|E|.|.|.|.|
+|.|.|.|.|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
-1. 
+1.E is helaas niet goed 
 2. 
