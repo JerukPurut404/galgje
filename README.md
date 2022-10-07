@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|A|.|.|L|
+|N|A|.|.|L|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -14,4 +14,4 @@
 2.A is goed
 3.L is goed
 4.F is helaas niet goed
-5.N
+5.N is goed
