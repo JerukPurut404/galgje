@@ -2,15 +2,15 @@
 
 ## Te raden woord
 
-|N|A|.|.|L|
+|N|A|.|E|L|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/6.png)
+![gallow](./images/5.png)
 
 ## Beurten
-1.E is helaas niet goed 
+1.E is goed 
 2.A is goed
 3.L is goed
 4.F is helaas niet goed
