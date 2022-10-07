@@ -12,3 +12,4 @@
 ## Beurten
 1.E is helaas niet goed 
 2.A is goed
+3.L
